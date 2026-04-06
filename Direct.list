@@ -1,0 +1,58 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,v4.plex.tv
+DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-SUFFIX,577889.xyz
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,bochk.com
+# DOMAIN-SUFFIX,siroule.workers.dev
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,oyunfor.com
+DOMAIN-SUFFIX,paytr.com
+DOMAIN-SUFFIX,payten.com.tr
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,apple.com
+
+# PT
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,cinefiles.info
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,et8.org
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,tjupt.org
+
+# 国内DNS
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub
+
+# cf
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,trycloudflare.com
+DOMAIN-SUFFIX,argotunnel.com
+
+# 群晖
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,checkipv6.synology.com
+DOMAIN-SUFFIX,checkport.synology.com
+DOMAIN-SUFFIX,ddns.synology.com
+DOMAIN-SUFFIX,account.synology.com
