@@ -21,7 +21,8 @@ DOMAIN-SUFFIX,payten.com.tr
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,apple.com
-
+DOMAIN-SUFFIX,bitwarden.com,DIRECT
+DOMAIN-SUFFIX,bitwarden.net,DIRECT
 # PT
 DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,cinefiles.info
